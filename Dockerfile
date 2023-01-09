@@ -1,4 +1,4 @@
-FROM ghcr.io/vivek-sampara-shyftplan/github-script-ruby-base:v1
+FROM ghcr.io/vivek-sampara-shyftplan/github-script-ruby-base:latest
 
 COPY docker/Gemfile /github-script-ruby/Gemfile
 COPY lib/ /github-script-ruby/lib/
