@@ -46,7 +46,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  octokit (~> 4.0)
+  octokit
   simplecov
   test-unit
 
